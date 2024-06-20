@@ -1,3 +1,2 @@
-# Modern Next 13 Website With Framer Motion & Tailwind CSS
+# Modern Next JS Website With Framer Motion & Tailwind CSS
 
-### [Live Site](https://metaverse-sage-psi.vercel.app/)
